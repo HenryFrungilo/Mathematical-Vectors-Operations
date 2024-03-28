@@ -1,0 +1,18 @@
+# ninja log v5
+1	135	7331975255973740	build.ninja	9cadb2dbd2648332
+2	464	7327735917216975	CMakeFiles/ProjetoCalculosBritto.dir/main.cpp.obj	50d6d6056153cd5d
+465	537	7327735918018884	ProjetoCalculosBritto.exe	babc321acddb6a9d
+3	511	7331986870132075	CMakeFiles/ProjetoCalculosBritto.dir/main.cpp.obj	50d6d6056153cd5d
+512	730	7331986872285467	ProjetoCalculosBritto.exe	babc321acddb6a9d
+2	430	7331987593858073	CMakeFiles/ProjetoCalculosBritto.dir/main.cpp.obj	50d6d6056153cd5d
+430	515	7331987594678046	ProjetoCalculosBritto.exe	babc321acddb6a9d
+3	504	7331989210027949	CMakeFiles/ProjetoCalculosBritto.dir/main.cpp.obj	50d6d6056153cd5d
+504	584	7331989210811179	ProjetoCalculosBritto.exe	babc321acddb6a9d
+2	428	7331989661458971	CMakeFiles/ProjetoCalculosBritto.dir/main.cpp.obj	50d6d6056153cd5d
+429	509	7331989662244388	ProjetoCalculosBritto.exe	babc321acddb6a9d
+3	426	7331991367779665	CMakeFiles/ProjetoCalculosBritto.dir/main.cpp.obj	50d6d6056153cd5d
+426	505	7331991368554786	ProjetoCalculosBritto.exe	babc321acddb6a9d
+4	814	7332832667324173	CMakeFiles/ProjetoCalculosBritto.dir/main.cpp.obj	50d6d6056153cd5d
+814	1157	7332832670175696	ProjetoCalculosBritto.exe	babc321acddb6a9d
+2	595	7332833087908481	CMakeFiles/ProjetoCalculosBritto.dir/main.cpp.obj	50d6d6056153cd5d
+596	685	7332833088796557	ProjetoCalculosBritto.exe	babc321acddb6a9d
