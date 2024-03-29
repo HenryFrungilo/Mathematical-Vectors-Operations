@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/henry/CLionProjects/ProjetoCalculosBritto/cmake-build-debug",
-		"source" : "C:/Users/henry/CLionProjects/ProjetoCalculosBritto"
+		"build" : "D:/ProjetoCalculosBritto/cmake-build-debug",
+		"source" : "D:/ProjetoCalculosBritto"
 	},
 	"version" : 
 	{
